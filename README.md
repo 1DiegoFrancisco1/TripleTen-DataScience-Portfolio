@@ -17,7 +17,7 @@ You’ll find topics like **time series, regression, classification, A/B testing
 
 | # | Project Title | Focus Area | Main Tools |
 |:-:|----------------|-------------|-------------|
-| **1** | [Customer Data Cleaning](./Project1_Data_Cleaning) | Data preprocessing, Python lists | Python |
+| **1** | [Customer Data Cleaning](https://github.com/1DiegoFrancisco1/Project-1---Data-Cleaning-and-Exploration) | Data preprocessing, Python lists | Python |
 | **2** | [Customer Segmentation Functions](./Project2_Data_Functions) | Functions, iteration, cleaning | Python |
 | **3** | [Music Streaming Analysis](./Project3_Music_Analysis) | EDA, pandas, data visualization | pandas, matplotlib |
 | **4** | [Instacart Shopping Trends](./Project4_Instacart) | Data wrangling, EDA, visualization | pandas, seaborn |
