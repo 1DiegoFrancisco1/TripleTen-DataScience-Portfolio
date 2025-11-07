@@ -20,18 +20,17 @@ You’ll find topics like **time series, regression, classification, A/B testing
 | **1** | [Data Cleaning and Exploration](https://github.com/1DiegoFrancisco1/Project-1---Data-Cleaning-and-Exploration) | Data preprocessing, Python lists | Python |
 | **2** | [Data Wrangling and Business Logic](https://github.com/1DiegoFrancisco1/Project-2---Data-Wrangling-and-Business-Logic). | Functions, iteration, cleaning | Python |
 | **3** | [Music Streaming Analysis](https://github.com/1DiegoFrancisco1/Project-3---Music-Streaming-Data-Analysis) | EDA, pandas, data visualization | pandas, matplotlib |
-| **4** | [Instacart Shopping Trends](./Project4_Instacart) | Data wrangling, EDA, visualization | pandas, seaborn |
-| **5** | [Mobile Plan Revenue Analysis](./Project5_Megaline_Stats) | Statistical testing, t-test | SciPy, matplotlib |
-| **6** | [Video Game Market Analysis](./Project6_VG_Sales) | EDA, hypothesis testing, visualization | pandas, seaborn |
-| **7** | [A/B Testing with Online Store](./Project7_AB_Testing) | Bootstrapping, significance testing | numpy, matplotlib |
-| **8** | [Zuber Taxi Demand Study](./Project8_Zuber) | SQL + Python integration, EDA, hypothesis testing | SQL, pandas |
-| **9** | [Megaline Plan Recommendation](./Project9_ML_Plans) | Classification models | scikit-learn |
-| **10** | [Beta Bank Churn Prediction](./Project10_Bank_Churn) | Classification, imbalance correction | Random Forest, ROC-AUC |
-| **11** | [OilyGiant Well Optimization](./Project11_Oil_Profit) | Regression, bootstrapping, risk analysis | numpy, matplotlib |
-| **12** | [Gold Recovery Optimization](./Project12_Gold_Recovery) | Regression, sMAPE metric | Gradient Boosting |
-| **13** | [Sure Tomorrow Insurance](./Project13_Data_Privacy) | Privacy-preserving ML, obfuscation | Linear Algebra, scikit-learn |
-| **14** | [Rusty Bargain Car Pricing](./Project14_Car_Pricing) | Regression, LightGBM, feature importance | LightGBM, XGBoost |
-| **15** | [Sweet Lift Taxi Forecasting](./Project15_Taxi_Forecast) | Time Series Forecasting | Gradient Boosting |
+| **4** | [Instacart Customer Behavior Analysis](https://github.com/1DiegoFrancisco1/Project-4-Instacart-Customer-Behavior) | Data wrangling, EDA, visualization | pandas, seaborn |
+| **5** | [Megaline Tariff Revenue Analysis](https://github.com/1DiegoFrancisco1/Project-5-Megaline-Tariff-Revenue-Analysis) | Statistical testing, t-test | SciPy, matplotlib |
+| **6** | [Video Game Sales & Market Analysis](https://github.com/1DiegoFrancisco1/Project-6-Video-Game-Sales-Market-Analysis-ICE-Games-) | EDA, hypothesis testing, visualization | pandas, seaborn |
+| **8** | [Chicago Taxi Market Analysis](https://github.com/1DiegoFrancisco1/Project-8-Chicago-Taxi-Market-Analysis-Zuber-Case-Study-) | SQL + Python integration, EDA, hypothesis testing | SQL, pandas |
+| **9** | [Customer Plan Recommendation Model](https://github.com/1DiegoFrancisco1/Project-9-Customer-Plan-Recommendation-Model-Megaline-) | Classification models | scikit-learn |
+| **10** | [Beta Bank Churn Prediction](https://github.com/1DiegoFrancisco1/Project-10-Customer-Churn-Prediction-for-Beta-Bank) | Classification, imbalance correction | Random Forest, ROC-AUC |
+| **11** | [Oil Well Profitability Prediction](https://github.com/1DiegoFrancisco1/Project-11-Oil-Well-Profitability-Prediction-OilyGiant-) | Regression, bootstrapping, risk analysis | numpy, matplotlib |
+| **12** | [Gold Recovery Optimization](https://github.com/1DiegoFrancisco1/Project-12-Predicting-Gold-Recovery-from-Ore-Industrial-Regression-Modeling-) | Regression, sMAPE metric | Gradient Boosting |
+| **13** | [Sure Tomorrow Insurance](https://github.com/1DiegoFrancisco1/Project-13-Machine-Learning-and-Data-Privacy-for-Sure-Tomorrow-Insurance) | Privacy-preserving ML, obfuscation | Linear Algebra, scikit-learn |
+| **14** | [Used Car Price Prediction](https://github.com/1DiegoFrancisco1/Project-14-Used-Car-Price-Prediction-Rusty-Bargain-) | Regression, LightGBM, feature importance | LightGBM, XGBoost |
+| **15** | [Taxi Demand Forecasting](https://github.com/1DiegoFrancisco1/Project-15-Taxi-Demand-Forecasting-Sweet-Lift-Taxi-) | Time Series Forecasting | Gradient Boosting |
 
 ---
 
