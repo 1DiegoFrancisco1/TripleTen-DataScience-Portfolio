@@ -17,9 +17,9 @@ You’ll find topics like **time series, regression, classification, A/B testing
 
 | # | Project Title | Focus Area | Main Tools |
 |:-:|----------------|-------------|-------------|
-| **1** | [Customer Data Cleaning](https://github.com/1DiegoFrancisco1/Project-1---Data-Cleaning-and-Exploration) | Data preprocessing, Python lists | Python |
-| **2** | [Customer Segmentation Functions](./Project2_Data_Functions) | Functions, iteration, cleaning | Python |
-| **3** | [Music Streaming Analysis](./Project3_Music_Analysis) | EDA, pandas, data visualization | pandas, matplotlib |
+| **1** | [Data Cleaning and Exploration](https://github.com/1DiegoFrancisco1/Project-1---Data-Cleaning-and-Exploration) | Data preprocessing, Python lists | Python |
+| **2** | [Data Wrangling and Business Logic](https://github.com/1DiegoFrancisco1/Project-2---Data-Wrangling-and-Business-Logic). | Functions, iteration, cleaning | Python |
+| **3** | [Music Streaming Analysis](https://github.com/1DiegoFrancisco1/Project-3---Music-Streaming-Data-Analysis) | EDA, pandas, data visualization | pandas, matplotlib |
 | **4** | [Instacart Shopping Trends](./Project4_Instacart) | Data wrangling, EDA, visualization | pandas, seaborn |
 | **5** | [Mobile Plan Revenue Analysis](./Project5_Megaline_Stats) | Statistical testing, t-test | SciPy, matplotlib |
 | **6** | [Video Game Market Analysis](./Project6_VG_Sales) | EDA, hypothesis testing, visualization | pandas, seaborn |
